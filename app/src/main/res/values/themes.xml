@@ -1,0 +1,11 @@
+<resources>
+    <!-- Main app theme -->
+    <style name="Theme.BATIRKOLDemoShop" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.App.Splash" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
